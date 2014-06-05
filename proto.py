@@ -9,7 +9,8 @@
  All the specific nuances of IP imports, file parsing and so forth have been handled so that an tester can just
  generate the needed code.
 '''
-# Some of these libraries are not needed
+# Disclaimer: This tool should be not be modified or used with malicious intentions
+# Some of these libraries are not needed, they were included based on common requirements
 import sys
 import operator
 import itertools
