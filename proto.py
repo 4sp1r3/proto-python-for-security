@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # Author: Chris Duffy
 # Date: June 4, 2014
-# Email: Chris.Duffy@KnowledgeCG.com
 # Credit: Shawn Evans for netcider.py, which the cidr class was extracted and slightly modified
 # Email: Shawn.Evans@KnowledgeCG.com
 '''
